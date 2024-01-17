@@ -122,7 +122,7 @@
     "vscode-jsonrpc": "^5.0.1"
   },
   "dependencies": {
-    "@rokucommunity/bslib": "^0.1.1",
+    "@rokucommunity/bslib": "github:georgejecook/bslib#branch-or-commit",
     "@xml-tools/parser": "^1.0.7",
     "array-flat-polyfill": "^1.0.1",
     "chalk": "^2.4.2",
